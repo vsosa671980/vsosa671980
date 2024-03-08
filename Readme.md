@@ -32,6 +32,7 @@ Software developer , and Data Science Junior</h3>
 <div>
 
 <h1>Some of my actual studies</h1>
+ <img src="assets\study.jpg" alt="studies" width="200px" style="border-radius: 10px; box-shadow: 2px 2px 5px grey;margin:20px">
 
 <p>Master Python , Big Data and Machine Learning</p>
 <p>Master JavaEE full Stack</p>
@@ -44,10 +45,15 @@ Software developer , and Data Science Junior</h3>
 </div>
 
 <h2>Currently</h2>
+ <img src="assets\Currently.png" alt="studies" width="200px" style="border-radius: 10px; box-shadow: 2px 2px 5px grey;margin:20px">
 <p>I am improving my knowledge in Machine learning and in Software develop in general, increasing my english language skills to C1 level taken classes around to days at week and trying to be a better profession each day </p>
 <p> I am in love with python but I haven´t issues in programming with other languages<p>
 
 <div><h2>Languages</h2>
+
+<img src="assets\idioms.png" alt="studies" width="200px" style="border-radius: 10px; box-shadow: 2px 2px 5px grey;margin:20px">
+
+
 
 - Spanish : Level Native
 - English : Level intermediate but increasing it all days
@@ -57,7 +63,10 @@ Software developer , and Data Science Junior</h3>
 <div>
 
  <h2>What more appart from programming?</h2>
+
+ <img src="assets\myself.png" alt="studies" width="200px" style="border-radius: 10px; box-shadow: 2px 2px 5px grey;margin:20px">
  <p>During my whole life I have practice sport, and currently I practice it as most as I can. Sport is a big part of my personality and my life.</p>
+ <p>Nature and animals are huge important in my life as well</p>
  <p>And my family ...  it is the best. </p>
  
 
